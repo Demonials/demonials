@@ -1,190 +1,150 @@
-<!-- ============================================ -->
-<!--            HELLO WORLD! I'M [YOUR NAME]      -->
-<!-- ============================================ -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=Hey!+I'm+[Your+Name]++;Full-Stack+Architect;Open+Source+Advocate;Coffee+☕+>+Code" alt="Typing SVG" />
-</h1>
-
-<!-- Animated Banner / Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ============================================ -->
-<!--            BADGE SECTION (YOUR TOOLBOX)      -->
-<!-- ============================================ -->
-
-<h3 align="center">⚡ The Tech I Wield ⚡</h3>
+<!-- ========================================================== -->
+<!--                  🔥 DEMONIALS 🔥                           -->
+<!-- ========================================================== -->
 
 <!-- 
-  🛑 INSTRUCTIONS: 
-  - Keep the badges for languages/tools you ACTUALLY use.
-  - Delete the entire line for the ones you don't.
-  - If you use something not here, Google "shields.io [tech name]" 
-    and copy the markdown!
+  🚀 FULL ANIMATED HEADER WITH YOUR WEBSITE BRANDING
 -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2000&pause=800&color=FF00FF&center=true&vCenter=true&width=600&lines=DEMONIALS;Full-Stack+Architect;Digital+Alchemist;Code+is+My+Weapon" alt="Demonials Typing" />
+</h1>
+
+<!-- 
+  🎬 COOL ANIMATED DIVIDER (FIRE / GLITCH EFFECT)
+-->
 <p align="center">
-  <!-- LANGUAGES -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
+<!-- 
+  👾 ANIMATED PROFILE BANNER WITH YOUR WEBSITE
+-->
 <p align="center">
-  <!-- FRONTEND FRAMEWORKS -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <a href="https://demonials.vercel.app" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=🚀+DEMONIALS+🚀&fontSize=60&fontAlignY=35&desc=Click+to+Enter+My+Dimension&descAlignY=55&animation=twinkling" alt="Demonials Banner" />
+  </a>
 </p>
 
-<p align="center">
-  <!-- BACKEND / DEVOPS -->
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+<!-- 
+  💀 GLITCH TEXT INTRODUCTION
+-->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=⚡+Welcome+to+the+Matrix+⚡;I+Build+Digital+Experiences;Cyberpunk+By+Nature;Full-Stack+By+Trade" alt="Subtitle" />
+</h3>
+
+<!-- 
+  🧩 COOL STICKERS / BADGES (NO BORING LINKS)
+-->
+
+### ⚡ **My Digital Arsenal**
 
 <p align="center">
-  <!-- DATABASES -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <!-- THESE ARE STICKER-STYLE BADGES - KEEP WHAT YOU USE -->
+  <img src="https://img.shields.io/badge/🐍_Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/⚡_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/🦀_Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌀_TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚛️_React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/📦_Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/🐳_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/☁️_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/🗄️_PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/🍃_MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎨_Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/💎_Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 </p>
 
-<!-- ============================================ -->
-<!--            YOUR WEBSITE / PORTFOLIO          -->
-<!-- ============================================ -->
+<!-- 
+  🌐 YOUR WEBSITE - EXPANDED & IN YOUR FACE
+-->
 
-<h3 align="center">🌐 Check Out My Corner of the Internet 🌐</h3>
+### 🌐 **My Digital Lair**
 
 <p align="center">
   <a href="https://demonials.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌍_My_Official_Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://[YOUR-DOMAIN].com/blog" target="_blank">
-    <img src="https://img.shields.io/badge/📝_My_Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <a href="https://[YOUR-DOMAIN].com/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/💼_Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔮_ENTER_THE_DEMONIALS_VERSE-FF00FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A&color=FF00FF&link=https://demonials.vercel.app" alt="Demonials Website" />
   </a>
 </p>
 
-<!-- OPTIONAL: Dynamic Website Status Badge (Shows if your site is live) -->
 <p align="center">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2F[YOUR-DOMAIN].com&style=for-the-badge&label=Website%20Status&color=success" />
+  <a href="https://demonials.vercel.app">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&customColorList=12&height=100&text=🚀+CLICK+ME+🚀&fontSize=40&fontAlign=50&fontAlignY=50&animation=fadeIn" alt="Click Me Banner" />
+  </a>
 </p>
-
-<!-- ============================================ -->
-<!--            GITHUB STATS (FULL FLEX)          -->
-<!-- ============================================ -->
-
-<h3 align="center">📈 My Dev Metrics 📈</h3>
 
 <!-- 
-  IMPORTANT: Change EVERY "demonials" to YOUR actual GitHub username!
+  🌟 GITHUB STATS - FULL WIDTH & GLOWING
+-->
+
+### 📊 **My Code Universe** *(Live Stats)*
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=demonials&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FF00&ring_color=FF00FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=demonials&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=FF00FF&fire=FF00FF&currStreakNum=00FF00&sideNums=00FF00" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonials&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=00FF00&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=demonials&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=FF00FF&line=00FF00&point=FF00FF" alt="Activity Graph" />
+</p>
+
+<!-- 
+  🎮 STICKER STYLE SOCIALS (NO BORING STUFF)
+-->
+
+### 🎯 **Find Me in the Wild**
+
+<p align="center">
+  <a href="https://twitter.com/[your-twitter]">
+    <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  <a href="https://linkedin.com/in/[your-linkedin]">
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  <a href="https://dev.to/[your-devto]">
+    <img src="https://img.shields.io/badge/📝_Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@[your-youtube]">
+    <img src="https://img.shields.io/badge/🎬_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0A0A0A" />
+  </a>
+  <a href="mailto:[your-email]">
+    <img src="https://img.shields.io/badge/✉️_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" />
+  </a>
+</p>
+
+<!-- 
+  🐍 SNAKE ANIMATION (EATS YOUR CONTRIBUTIONS)
 -->
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=demonials&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=demonials&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://raw.githubusercontent.com/demonials/demonials/output/snake.svg" alt="Snake Animation" />
 </p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonials&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=demonials&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-<!-- ============================================ -->
-<!--            DYNAMIC BLOG POSTS (OPTIONAL)     -->
-<!-- ============================================ -->
 
 <!-- 
-  BONUS FEATURE: This automatically pulls your latest blog posts!
-  If you use Hashnode or Dev.to, uncomment this section and change the username.
+  👁️ VISITOR COUNTER (SIMPLE & CLEAN)
 -->
 
-<!-- 
-<h3 align="center">✍️ My Latest Brain Dumps (Blog)</h3>
-
 <p align="center">
-  <a href="https://hashnode.com/@[your-hashnode-username]">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=demonials&style=plastic&color=FF00FF&label=👾+VISITORS" alt="Profile Views" />
 </p>
 
-<!-- HASHNODE BLOG FEED (Uncomment this block) -->
 <!-- 
-<p align="center">
-  <a href="https://hashnode.com/@[your-hashnode-username]">
-    <img src="https://github-readme-hashnode-hack.vercel.app/api?id=[your-hashnode-username]&limit=3&show_icon=false&icon_color=000&title_color=6A0DAD&bg_color=0D1117&text_color=FFFFFF&border_radius=10&border_color=6A0DAD" alt="Hashnode Blog" />
-  </a>
-</p>
+  🏆 TROPHY CASE
 -->
 
-<!-- ============================================ -->
-<!--            SOCIALS & CONNECT                 -->
-<!-- ============================================ -->
-
-<h3 align="center">🤝 Let's Connect & Build Together 🤝</h3>
-
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/[your-twitter]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://dev.to/[your-devto]" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@[your-youtube]" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:[your-email]@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=demonials&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-<!-- ============================================ -->
-<!--            SNAKE ANIMATION (FLEX)            -->
-<!-- ============================================ -->
+<!-- 
+  🔥 GLITCHY FOOTER
+-->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/demonials/demonials/output/snake.svg" alt="Snake Game Contribution Graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&text=💀+Demonials+💀&fontSize=30&fontAlignY=75&animation=twinkling" />
 </p>
 
-<!-- ============================================ -->
-<!--            PROFILE VISITOR COUNTER           -->
-<!-- ============================================ -->
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=demonials&style=for-the-badge&color=6A0DAD&label=👀+Profile+Views" alt="Profile Views" />
-</p>
-
-<!-- ============================================ -->
-<!--            SUPPORT / BUY ME COFFEE           -->
-<!-- ============================================ -->
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/[your-coffee-id]">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-  <a href="https://github.com/sponsors/[demonials]">
-    <img src="https://img.shields.io/badge/Sponsor_Me-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" />
-  </a>
-</p>
-
-<!-- Final Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<p align="center">
-  <b>💡 "Code is poetry in motion." 💡</b>
+  <b>⚡ "Reality is just a simulation. I just write the code." ⚡</b>
 </p>
