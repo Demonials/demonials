@@ -89,17 +89,17 @@
 <h3 align="center">📈 My Dev Metrics 📈</h3>
 
 <!-- 
-  IMPORTANT: Change EVERY "your-username" to YOUR actual GitHub username!
+  IMPORTANT: Change EVERY "demonials" to YOUR actual GitHub username!
 -->
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=demonials&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=demonials&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonials&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=demonials&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 <!-- ============================================ -->
@@ -158,7 +158,7 @@
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/snake.svg" alt="Snake Game Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/demonials/demonials/output/snake.svg" alt="Snake Game Contribution Graph" />
 </p>
 
 <!-- ============================================ -->
@@ -166,7 +166,7 @@
 <!-- ============================================ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=6A0DAD&label=👀+Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=demonials&style=for-the-badge&color=6A0DAD&label=👀+Profile+Views" alt="Profile Views" />
 </p>
 
 <!-- ============================================ -->
@@ -177,7 +177,7 @@
   <a href="https://www.buymeacoffee.com/[your-coffee-id]">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-  <a href="https://github.com/sponsors/[your-username]">
+  <a href="https://github.com/sponsors/[demonials]">
     <img src="https://img.shields.io/badge/Sponsor_Me-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" />
   </a>
 </p>
