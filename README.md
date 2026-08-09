@@ -11,7 +11,7 @@
 </p>
 
 <!-- 
-  🌌 ANIMATED MATRIX RAIN DIVIDER (Matches your site's cyberpunk feel)
+  🌌 ANIMATED MATRIX RAIN DIVIDER
 -->
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <!-- 
-  👁️ GLITCHED PROFILE BANNER - YOUR WEBSITE BUT BIGGER
+  👁️ GLITCHED PROFILE BANNER - YOUR WEBSITE
 -->
 
 <p align="center">
@@ -29,7 +29,7 @@
 </p>
 
 <!-- 
-  💀 GLITCH TEXT - MATCHES YOUR SITE'S DEMON THEME
+  💀 GLITCH TEXT
 -->
 
 <h3 align="center">
@@ -47,24 +47,22 @@
 </h2>
 
 <!-- 
-  🎨 THESE ARE GLOWING NEON STICKERS - MATCHES YOUR SITE'S AESTHETIC
+  🎨 NEON GLOW STICKERS - DELETE WHAT YOU DON'T USE
 -->
 
 <p align="center">
-  <!-- LANGUAGES - NEON GLOW EFFECT -->
-  <img src="https://img.shields.io/badge/🐍_Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=0A0A0A&color=FFD43B&link=https://www.python.org/" />
+  <!-- LANGUAGES -->
+  <img src="https://img.shields.io/badge/🐍_Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=0A0A0A&color=FFD43B" />
   <img src="https://img.shields.io/badge/⚡_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0A0A0A&color=F7DF1E" />
   <img src="https://img.shields.io/badge/🌀_TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0A0A0A&color=007ACC" />
   <img src="https://img.shields.io/badge/🦀_Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=0A0A0A&color=FF4500" />
   <img src="https://img.shields.io/badge/☕_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0A0A0A&color=ED8B00" />
-  <img src="https://img.shields.io/badge/💎_Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white&labelColor=0A0A0A&color=CC0000" />
 </p>
 
 <p align="center">
-  <!-- FRAMEWORKS & LIBRARIES -->
+  <!-- FRAMEWORKS -->
   <img src="https://img.shields.io/badge/⚛️_React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0A0A0A&color=20232A" />
   <img src="https://img.shields.io/badge/📦_Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0A0A0A&color=000000" />
-  <img src="https://img.shields.io/badge/🔷_Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=0A0A0A&color=35495E" />
   <img src="https://img.shields.io/badge/🎨_Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0A0A0A&color=38B2AC" />
   <img src="https://img.shields.io/badge/💅_Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0A0A0A&color=7952B3" />
 </p>
@@ -74,9 +72,7 @@
   <img src="https://img.shields.io/badge/🟢_Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0A0A0A&color=43853D" />
   <img src="https://img.shields.io/badge/🐍_Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0A0A0A&color=092E20" />
   <img src="https://img.shields.io/badge/🐳_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0A0A&color=2496ED" />
-  <img src="https://img.shields.io/badge/☸️_Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0A0A0A&color=326CE5" />
   <img src="https://img.shields.io/badge/☁️_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0A0A0A&color=FF9900" />
-  <img src="https://img.shields.io/badge/🔄_GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0A0A0A&color=2088FF" />
 </p>
 
 <p align="center">
@@ -84,7 +80,6 @@
   <img src="https://img.shields.io/badge/🐘_PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0A0A0A&color=316192" />
   <img src="https://img.shields.io/badge/🍃_MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0A0A0A&color=4EA94B" />
   <img src="https://img.shields.io/badge/🔴_Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0A0A0A&color=DC382D" />
-  <img src="https://img.shields.io/badge/🔥_Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0A0A0A&color=FFCA28" />
 </p>
 
 <!--- =========================================================== --->
@@ -97,19 +92,11 @@
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="40px" height="40px" alt="Portal"/>
 </h2>
 
-<!-- 
-  💀 YOUR WEBSITE GETS A FULL NEON PORTAL - MATCHES YOUR SITE EXACTLY
--->
-
 <p align="center">
   <a href="https://demonials.vercel.app" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&customColorList=12&height=200&text=🌐+DEMONIALS.VERCEL.APP+🌐&fontSize=45&fontAlign=50&fontAlignY=45&desc=⚡+CLICK+TO+ENTER+THE+VOID+⚡&descAlignY=65&animation=twinkling&stroke=FF00FF&strokeWidth=3" alt="Demonials Website Portal" />
   </a>
 </p>
-
-<!-- 
-  🎮 LIVE WEBSITE STATUS BADGE
--->
 
 <p align="center">
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fdemonials.vercel.app&style=for-the-badge&label=🌐+WEBSITE+STATUS&color=FF00FF&labelColor=0A0A0A&logo=vercel&logoColor=white" />
@@ -126,10 +113,6 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" alt="Stats"/>
 </h2>
 
-<!-- 
-  📈 FULL WIDTH STATS WITH CYBERPUNK COLORS
--->
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=demonials&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FF00&ring_color=FF00FF&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=🔥+DEMONIALS+STATS" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=demonials&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=FF00FF&fire=FF00FF&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=FF00FF&sideLabels=FF00FF&dates=FFFFFF" alt="Streak Stats" />
@@ -140,24 +123,12 @@
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=demonials&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=FF00FF&line=00FF00&point=FF00FF&custom_title=⚡+CODING+ACTIVITY" alt="Activity Graph" />
 </p>
 
-<!-- 
-  🏆 TROPHY CASE - FULL WIDTH
--->
+<!--- =========================================================== --->
+<!---         🏆 TROPHY CASE                                   --->
+<!--- =========================================================== --->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=demonials&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&custom_title=🏆+ACHIEVEMENTS" alt="GitHub Trophies" />
-</p>
-
-<!--- =========================================================== --->
-<!---         🐍 SNAKE ANIMATION - CONTRIBUTION EATER          --->
-<!--- =========================================================== --->
-
-<!-- 
-  🐍 THE SNAKE EATS YOUR CONTRIBUTIONS - MATCHES CYBERPUNK THEME
--->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/demonials/demonials/output/snake.svg" alt="Snake Animation" />
 </p>
 
 <!--- =========================================================== --->
@@ -169,10 +140,6 @@
   FIND ME IN THE WILD
   <img src="https://media.giphy.com/media/LnQjpWaON8nw21sjNW/giphy.gif" width="30px" height="30px" alt="Connect"/>
 </h2>
-
-<!-- 
-  🎯 STICKER-STYLE SOCIAL BADGES - MATCHES YOUR DEMON THEME
--->
 
 <p align="center">
   <a href="https://twitter.com/[your-twitter]" target="_blank">
@@ -193,9 +160,6 @@
   <a href="mailto:[your-email]">
     <img src="https://img.shields.io/badge/✉️_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A&color=D14836" />
   </a>
-  <a href="https://github.com/demonials">
-    <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=181717" />
-  </a>
 </p>
 
 <!--- =========================================================== --->
@@ -207,45 +171,17 @@
 </p>
 
 <!--- =========================================================== --->
-<!---         🎮 GITHUB METRICS - FULL INSIGHTS                --->
+<!---         🔥 GLITCHY FOOTER                               --->
 <!--- =========================================================== --->
-
-<!-- 
-  📊 EXTRA METRICS - SHOWS YOUR CODING HABITS
--->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=demonials&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=00FF00&custom_title=⌨️+CODING+HABITS" alt="Wakatime Stats" />
-</p>
-
-<!--- =========================================================== --->
-<!---         🔥 GLITCHY FOOTER - MATCHES YOUR SITE            --->
-<!--- =========================================================== --->
-
-<!-- 
-  💀 FULL WIDTH ANIMATED FOOTER - CYBERPUNK GLITCH EFFECT
--->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&text=💀+DEMONIALS+💀&fontSize=45&fontAlign=50&fontAlignY=70&animation=twinkling&stroke=FF00FF&strokeWidth=2" />
 </p>
 
-<!-- 
-  💬 QUOTE THAT MATCHES YOUR DARK THEME
--->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=⚡+%22Reality+is+just+a+simulation.+I+just+write+the+code.%22+⚡;💀+%22Demons+aren't+real...++But+my+bugs+are.%22+💀;🔥+%22Built+with+dark+matter+and+neon+light.%22+🔥" alt="Quotes" />
 </p>
 
-<!-- 
-  👾 FINAL GLITCH ANIMATION
--->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&customColorList=12&height=50&text=🔮+ENTER+THE+DEMONIALS+VERSE+🔮&fontSize=25&fontAlign=50&fontAlignY=50&animation=fadeIn" alt="Final Portal" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=demonials&style=plastic&color=FF00FF&label=🔥+TOTAL+DEMON+VISITS" alt="Total Visits" />
 </p>
